@@ -22,17 +22,17 @@ global.wm = "Kish botz inc."
 //global.link = 'https://chat.whatsapp.com/LhBwWwQAS4y93XOsCKpxdv'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['#']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti212 = true //auto block +212
-global.autoread_status = true //auto view status/story
+global.autoread_status = false //auto view status/story
 
 
 
